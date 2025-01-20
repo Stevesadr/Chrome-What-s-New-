@@ -9,7 +9,7 @@ const Header = () => {
       <div classname="relative bottom-0 left-1/2 transform -translate-x-1/2">
         <img
           className="size-10 lg:size-20 lg:bottom-[-38px] absolute left-1/2 bottom-[-20px] transform -translate-x-1/2"
-          src="../public/images/87865_chrome_icon (1).png"
+          src="../public/images/87865_chrome_icon.png"
           alt="google icon"
         />
       </div>
