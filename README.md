@@ -1,12 +1,3 @@
-<!-- # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
-
 # Chrome "What's New" Page Clone
 
 This is a responsive clone of Chrome's "What's New" page , created with **React.js** and **Tailwind CSS** This project is designed just like the Google Chrome page!
@@ -28,8 +19,8 @@ This is a responsive clone of Chrome's "What's New" page , created with **React.
 
 ### Desktop View
 
-![Desktop View](assets/Desktop-Screenshot.png)
+![Desktop View](./public/assets/Desktop-Screenshot.png)
 
 ### Mobile View
 
-![Mobile View](assets/Mobile-Screenshot.png)
+![Mobile View](./public/assets/Mobile-Screenshot.png)
